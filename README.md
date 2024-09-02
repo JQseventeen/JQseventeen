@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+我是JQseventeen
+我喜欢小猫，喜欢次好吃的
+我因为梦想来到了计算机
 <!--
 **JQseventeen/JQseventeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
